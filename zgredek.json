@@ -3,7 +3,7 @@
   "wake_word": "Zgredek",
   "author": "Krzysztof",
   "website": "",
-  "model": "zgredek.tflite",
+  "model": "https://raw.githubusercontent.com/krzysztofporwol/zgredek-wakeword/main/zgredek.tflite",
   "trained_languages": [
     "pl"
   ],
